@@ -31,8 +31,8 @@ A modern Android Todo List app built with **Jetpack Compose**, **MVVM architectu
 
 ## 🧪 Screenshots
 
-> ![image](https://github.com/user-attachments/assets/cc7cd0ad-1c62-4085-abec-4f016f90f073) - TodoListScreen
-> ![image](https://github.com/user-attachments/assets/f4e338e5-469a-41ff-ab44-cdb511403dcf) - TodoListDetailScreen
+> ![image](https://github.com/user-attachments/assets/6ad2085b-76c7-47b4-997c-ff826351dc0f) - TodoListScreen
+> ![image](https://github.com/user-attachments/assets/ca23fd64-0bed-4d29-b81d-21359c83d827) - TodoListDetailScreen
 
 
 
