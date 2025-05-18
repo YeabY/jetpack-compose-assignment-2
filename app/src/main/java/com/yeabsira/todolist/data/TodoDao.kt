@@ -16,4 +16,7 @@ interface TodoDao {
 
     @Query("DELETE FROM todos")
     suspend fun deleteAllTodos()
+
+    @Query("SELECT * FROM todos WHERE id = :id")
+    suspend fun getTodoById(id: Int): TodoEntity?
 }
